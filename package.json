@@ -1,0 +1,20 @@
+{
+  "name": "experiments",
+  "version": "1.0.0",
+  "description": "Code snippets resulted from experimenting approaches to some interesting problems to me",
+  "main": "index.js",
+  "repository": "git@github.com:yethu/experiments-js.git",
+  "author": "Ye Thu <yethu.personal@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.0.0-beta.0",
+    "webpack-cli": "^2.0.4"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
